@@ -1,1 +1,1 @@
-# azure-bicep-sample
+# azure-bicep-sample :)
